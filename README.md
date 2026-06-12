@@ -2,7 +2,7 @@
 Customer Analytics and RFM Segmentation project using SQL, Python, PostgreSQL, and Power BI.
 
 ## Tools Used
-- SQL (PostgreSQL)
+- SQL (PostgreSQL) 
 - Python (Pandas, Matplotlib)
 - Power BI
 - DAX
@@ -35,7 +35,6 @@ Contains transaction-level e-commerce sales data including:
 - Country
 - Revenue
 - Invoice Date
-- Data Cleaning
 
 ## Performed using Python:
 
@@ -141,5 +140,4 @@ Customer Analytics & RFM Segmentation
 - Business Intelligence
 
   ## Author
-
-Sagar Hiware
+  ### Sagar Hiware
